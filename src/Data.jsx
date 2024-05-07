@@ -1,7 +1,7 @@
 export const data = [
     {
         id : 1,
-        title : "Ferrari",
+        title : "Big Mac",
         price: 2,
         image : 'https://billgatesmoney.netlify.app/images/big-mac.jpg'
 
